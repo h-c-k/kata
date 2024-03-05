@@ -9,4 +9,5 @@ Assurez-vous d'avoir Python installé sur votre système. Vous pouvez installer 
 ```bash
 pip install pandas matplotlib openpyxl
 
-[![Uploading image.png…]()](https://github.com/h-c-k/kata/blob/main/2024-03-05_195201.png)https://github.com/h-c-k/kata/blob/main/2024-03-05_195201.png
+
+[https://github.com/h-c-k/kata/blob/main/2024-03-05_195201.png](https://github.com/h-c-k/kata/blob/main/2024-03-05_195201.png)https://github.com/h-c-k/kata/blob/main/2024-03-05_195201.png
